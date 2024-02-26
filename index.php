@@ -177,6 +177,7 @@
                         opencard="NA";
                         points+=1;
                         current=-1;
+                        defuse=0;
 
                         // game won screen 
 
